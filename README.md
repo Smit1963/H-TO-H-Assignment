@@ -107,16 +107,6 @@ H-TO-H-Assignment/
    - Strategy implementation
    - Risk management
 
-### Key Commands
-
-#### Telegram Bot Commands
-- `/start` - Initialize the bot
-- `/status` - Check system status
-- `/balance` - View account balance
-- `/positions` - Current positions
-- `/trade <symbol> <amount>` - Execute trade
-- `/stop` - Stop trading
-
 #### Dashboard Features
 - **Real-time Monitoring**: Live charts and metrics
 - **Strategy Configuration**: Adjust parameters
@@ -153,53 +143,11 @@ Modify `trading_strategy.py` for:
 - **Historical Analysis**: Backtesting and optimization
 - **Multi-source Integration**: Multiple data providers
 
-### 🔒 Security & Risk Management
-- **API Security**: Encrypted API key management
-- **Position Limits**: Maximum exposure controls
-- **Stop-loss Mechanisms**: Automated risk mitigation
-- **Audit Trail**: Complete trade logging
-
 ### 📱 Multi-platform Access
 - **Web Dashboard**: Full-featured web interface
 - **Mobile App**: Telegram bot for mobile access
 - **API Access**: RESTful API for external integration
 - **Real-time Notifications**: Instant alerts and updates
-
-## 🚨 Important Notes
-
-### Security Considerations
-- Never commit API keys or credentials
-- Use environment variables for sensitive data
-- Regularly rotate API keys
-- Monitor for unauthorized access
-
-### Risk Disclaimer
-- This is a demonstration project
-- Trading involves substantial risk
-- Past performance doesn't guarantee future results
-- Use at your own risk
-
-### Performance Optimization
-- Monitor system resources
-- Optimize for low latency
-- Regular performance reviews
-- Continuous improvement cycles
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📞 Support
-
-For questions or issues:
-- Create an issue on GitHub
-- Check the documentation
-- Review the code comments
-- Contact the development team
 
 ## 📄 License
 
@@ -207,4 +155,4 @@ This project is for educational and demonstration purposes. Please ensure compli
 
 ---
 
-**Built with ❤️ for the H to H Assignment** 
+**Built with ❤️ by Smit Patel** 
