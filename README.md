@@ -19,8 +19,8 @@ This is a comprehensive algorithmic trading system that combines machine learnin
 - **Google Sheets Integration**: Automated reporting and data synchronization
 
 ### 🎯 User Interfaces
-- **Streamlit Web Dashboard**: Interactive web interface for monitoring and control. LINK:- https://h-to-h-assignment.streamlit.app/
-- **Telegram Bot**: Real-time notifications and remote trading commands. LINK:- https://t.me/smit_algo_trading_bot
+- **Streamlit Web Dashboard**: Interactive web interface for monitoring and control. **[LINK:- https://h-to-h-assignment.streamlit.app/]**
+- **Telegram Bot**: Real-time notifications and remote trading commands. **[LINK:- https://t.me/smit_algo_trading_bot]**
 - **Multi-platform Support**: Web, mobile, and desktop access
 
 ### 🔧 Technical Stack
